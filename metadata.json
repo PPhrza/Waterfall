@@ -1,0 +1,5 @@
+{
+  "name": "Chanthaburi Waterfall AI Predictor",
+  "description": "AI-powered water level prediction for 7 waterfalls in Chanthaburi using rainfall and seasonal data.",
+  "requestFramePermissions": []
+}
